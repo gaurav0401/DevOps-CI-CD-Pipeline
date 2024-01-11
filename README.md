@@ -16,8 +16,7 @@
 </ul>
 
 <h2>Pipeline</h2>
-<p>A pipeline in software engineering team is a set of automated processes which allows DevOps professionals and developer to reliably and efficiently compile, build, and deploy their code to their production compute platforms.
-
+<p>A  pipeline is a set of automated processes and tools that the development and operations teams use to compile, construct, test, and deploy software code faster and easier
     A pipeline consists of a set of tools which are classified into the following categories such as:
 
     <ul>
