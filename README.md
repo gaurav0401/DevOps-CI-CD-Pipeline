@@ -18,16 +18,13 @@
 <h2>Pipeline</h2>
 <p>A  pipeline is a set of automated processes and tools that the development and operations teams use to compile, construct, test, and deploy software code faster and easier
     A pipeline consists of a set of tools which are classified into the following categories such as:
-
     <ul>
-
         <li>Source control</li>
         <li>Build tools</li>
         <li>Containerization</li>
         <li>Configuration management</li>
         <li>Monitoring</li>
-     
-    </ul>
+     </ul>
 
 
 
